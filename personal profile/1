@@ -1,0 +1,7 @@
+name = input ("Enter your name")
+age = input ("Enter your age")
+dateofbirth = input ("Enter your date of birth")
+nationality = input ("Enter your nationality")
+city = input ("Enter what city you live in")
+interests = input ("Enter one or two of your interests")
+print(f"{name}\n{age}\n{dateofbirth}\n{nationality}\n{city}\n{interests}") 

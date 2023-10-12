@@ -1,1 +1,0 @@
-compute the area of a triangle

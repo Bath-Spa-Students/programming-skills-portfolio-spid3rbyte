@@ -1,0 +1,6 @@
+favorite_number = input("Enter your favorite number: ")
+time_of_year = input("Enter your favorite time of the year: ")
+weight = input("Enter your weight: ")
+print(int(favorite_number))
+print(str(time_of_year))
+print(float(weight))
